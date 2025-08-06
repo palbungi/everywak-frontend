@@ -1,3 +1,5 @@
+# 조만간 지울테니 포크해둠 ㅋㅋㅋ
+
 # everywak-frontend
 
 ReactJS로 구현된 에브리왁굳 프론트엔드
